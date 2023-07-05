@@ -1,0 +1,7 @@
+{
+  "img_model": "onnx/vit-b-16.img.fp16.onnx",
+  "txt_model": "onnx/vit-b-16.txt.fp16.onnx",
+  "img_dir": [
+    "/home/muyi/Pictures"
+  ]
+}
