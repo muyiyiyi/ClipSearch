@@ -1,0 +1,13 @@
+faiss_cpu==1.7.4
+loguru==0.7.0
+numpy==1.24.3
+onnxruntime==1.13.1
+Pillow==9.5.0
+Pillow==10.0.0
+PyQt5==5.15.9
+PyQt5_sip==12.12.1
+six==1.16.0
+SQLAlchemy==2.0.17
+torch==1.12.1+cpu
+torchvision==0.13.1+cpu
+tqdm==4.65.0
